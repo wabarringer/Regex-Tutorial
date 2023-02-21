@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tuturial - Matching a URL
 
-Introductory paragraph (replace this with your text)
+As a web development student, understanding regex, or regular expressions, is very important. This tutorial will focus on breaking down and explaining the different components of the regex used for matching a URL.
 
 ## Summary
 
